@@ -1,8 +1,9 @@
 /*
-    10071. Back to High School Physics - https://onlinejudge.org/external/100/10071.pdf
+    10071 - Back to High School Physics | Problem statement: https://onlinejudge.org/external/100/10071.pdf | uDebug: https://www.udebug.com/UVa/10071
 
     Author: Elkin Narváez
     Email: elkinnarvaez2406@gmail.com
+    Online Judge Profile: https://uhunt.onlinejudge.org/id/1256677
     Last submission: 12/15/2021
 */
 
